@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @H-goyal
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any awesome project on Data Science!!
+- 👀 I’m interested in the domains of Data Science, Machine Learning and Business Intelligence.
+- 🌱 I’m currently learning MongoDB
+- 💞️ I’m looking to collaborate on an awesome project on Data Science!!
 - 📫 Reach me via goyalhimanshu3010@gmail.com
 
 <!---
